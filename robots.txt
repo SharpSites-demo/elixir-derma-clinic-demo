@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://sharpsites-demo.github.io/elixir-derma-clinic-demo/sitemap.xml
